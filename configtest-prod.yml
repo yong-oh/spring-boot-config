@@ -1,1 +1,2 @@
-production server configuration
+namoosori:
+   value: prod-test-value
